@@ -1,0 +1,18 @@
+*{
+    margin:10px;
+    background-color: bisque;
+}
+nav>a{
+    color:blue;
+}
+.navbar{
+    font-weight: bold;
+}
+
+table,td,th{
+    border:1px solid black;
+}
+
+.ages{
+    width:27px;
+}
